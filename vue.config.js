@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/front-dev-task/'
+    publicPath: '/front_dev_task/'
   }
